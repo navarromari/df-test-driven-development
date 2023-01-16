@@ -16,7 +16,7 @@ function testCountOddNumbers() {
         test3: {
             input: [2, 4, 6],
             expected: 0,
-            logMessage: `Test 2: [2,4,6] => 0`
+            logMessage: `Test 3: [2,4,6] => 0`
         }
     }
 
